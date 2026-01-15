@@ -17,11 +17,11 @@ A Python-based appointment scheduling system that manages bookings, detects conf
 
 ```
 appointment-agent-python/
-├── main.py          # Main application with interactive CLI
-├── scheduler.py     # Scheduling logic and conflict detection
-├── storage.py       # Data persistence layer
-├── tests/           # Test files
-└── README.md        # This file
+├── main.py         
+├── scheduler.py    
+├── storage.py       
+├── tests/           
+└── README.md        
 ```
 
 ## Usage
