@@ -139,7 +139,7 @@ Available slots for 2026-01-20:
 - Python 3.7+
 - No external dependencies (uses only standard library)
 
-## Overviiew
+## Overview
 
 <img width="996" height="468" alt="Capture d’écran, le 2026-01-16 à 13 20 54" src="https://github.com/user-attachments/assets/841261fd-fb59-4192-9be0-72c3ab172e5a" />
 
